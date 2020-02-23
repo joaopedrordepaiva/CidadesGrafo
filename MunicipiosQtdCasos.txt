@@ -1,0 +1,41 @@
+Rio de Janeiro : 2281
+Angra dos Reis : 6539
+Petropolis : 18258
+Itaguai : 4203
+Carapebus : 834
+Conceicao de Macabu : 1236
+Japeri : 4277
+Mangaratiba : 1004
+Paracambi : 913
+Paraty : 3707
+Queimados : 4727
+Quissama : 1662
+Resende : 6705
+Rio Bonito : 2578
+Rio das Ostras : 2
+Saquarema : 5963
+Nova Iguacu : 15415
+Porto Real : 1557
+Miguel Pereira : 1384
+Sao Jose do Vale do Rio Preto : 1347
+Cachoeiras de Macacu : 3043
+Macuco : 423
+Bom Jesus do Itabapoana : 1844
+Cardoso Moreira : 719
+Vassouras : 2435
+Bom Jardim : 809
+Paraiba do Sul : 2217
+Itaperuna : 3910
+Cordeiro : 700
+Tres Rios : 4691
+Sao Sebastiao do Alto : 281
+Seropedica : 3105
+Mesquita : 3672
+Carmo : 1324
+Santa Maria Madalena : 291
+Trajano De Moraes : 234
+Duas Barras : 476
+Sapucaia : 1383
+Sumidouro : 1810
+Tangua : 1755
+Guapirmirim : 1869
